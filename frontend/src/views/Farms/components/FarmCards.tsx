@@ -180,7 +180,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm }) => {
               {farm.name}
             </StyledTitle>
             <StyledDetails>
-              <StyledDetail>{'1024% APY'}</StyledDetail>
+              <StyledDetail>{'100,000 ETHOS Rewards over 90 Days'}</StyledDetail>
             </StyledDetails>
             <Spacer />
             <Button
